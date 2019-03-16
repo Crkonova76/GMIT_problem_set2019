@@ -20,27 +20,40 @@ In both cases while loop was used.
 
 #VERSION 1
 
-#i = int(input ( "Enter the positive integer: "))
+#Created variable i which is asking to input positive integer
+i = int(input ( "Enter the positive integer: "))
 
-# total = 0
+# To variable total is assigned value Zero
+total = 0
 
-# while i > 0:
-#     total = total + i
-#     i = i - 1
+#While loop set up, running until condition i>0 is fulfilled
+#when i>0, to total is added i and i is decreased by 1.
+#The condition is checked again
+#when i=or is < 0, while loop is completed, the total will be printed
+while i > 0:
+    total = total + i
+    i = i - 1
 
-# print(total)
+print(total)
 
 
 
 #VERSION 2
 
+#Created variable i which is asking to input positive integer
 i = int(input ( "Enter the positive integer: "))
 
+# Variables total and result are created with assigned value Zero
 total = 0
 result = 0
 
-while total < i:
+# While loop set up, running until condition is fulfilled (total <i)
+# If the condition is not met, the program increse total by 1.
+# Variables total and result are added
+# When total equals or is bigger than i, while loop is completed.
+# Result will be printed
 
+while total < i:
     total = total + 1
     result = total + result
     
