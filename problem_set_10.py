@@ -9,7 +9,7 @@ x = np.array(range(0, 4))
 b = x * x
 c = 2**x
 
-plt.plot(x, x,label='linear function', linewidth=2)
+plt.plot(x, x, label='linear function', linewidth=2)
 plt.plot(x, b, label='square function', linewidth=2)
 plt.plot(x, c, label='exponential function',linewidth=2)
 
