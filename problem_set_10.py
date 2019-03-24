@@ -1,5 +1,5 @@
-# Martina Crkonova, 2019-03-18
-# Problem Set 2019, Python second, Programming and Scripting, GMIT
+# Martina Crkonova, 2019-03-24
+# Problem Set 2019, Python plot, Programming and Scripting, GMIT
 # Program which displays a plot of functions
 
 import matplotlib.pyplot as plt
