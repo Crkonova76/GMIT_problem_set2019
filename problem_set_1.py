@@ -23,7 +23,9 @@ In both cases while loop was used.
 #Created variable i which is asking to input positive integer
 i = int(input ( "Enter the positive integer: "))
 
-# To variable total is assigned value Zero
+# To variable total is assigned value Zero. 
+# Zero selected as the input number would be the starting integer in computation in below 
+# while loop
 total = 0
 
 #While loop set up, running until condition i>0 is fulfilled
@@ -34,7 +36,7 @@ while i > 0:
     total = total + i
     i = i - 1
 
-print(total)
+print("The output of Version 1 is {}".format(total))
 
 
 
@@ -58,4 +60,4 @@ while total < i:
     result = total + result
     
       
-print(result)
+print("The output of Version 2 is {}".format(result))
