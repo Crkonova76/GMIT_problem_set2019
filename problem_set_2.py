@@ -5,13 +5,15 @@
 # import datetime library
 import datetime
 
-
 # datetime.datetime.today().weekday() function returns integer
-# My if statement with using datetime function as condition 
+# My if statement with using datetime function as condition
 # if statement to recognize if days are 1 or 3
-if datetime.datetime.today().weekday() == 1 or 3:
+# 
+if datetime.datetime.today().weekday() == 3 or datetime. \
+        datetime.today().weekday() == 1:
     # If condition is true the message in this section will be printed
     print("Yes-today begins with T.")
 else:
-    # If condition about is not true the message in else condition will be printed
+    # If condition about is not true the message in else condition will
+    # be printed
     print("No-Today does not begin with a T.")
