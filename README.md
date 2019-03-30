@@ -35,6 +35,9 @@
 1, problem_set_1.py contains the solution to problem "Write a program that asks the user to ...input any poisitive integer and outputs the sum of all numbers between one and that number." 
 
 2, problem_set_2.py contains the solution to problem "Write a program that outputs whether or ...not today is a day that begins with the letter T. An example of running this program on a ...Thursday is as follows."
+>Please enter a positive integer: 22
+>An initial positive integer is 22 and the output is: [11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1]
+
 
 3, problem_set_3.py contains the solution to problem "Write a program that prints all numbers ...between 1,000 and 10,000 that are divisible by 6 but not 12."
 
