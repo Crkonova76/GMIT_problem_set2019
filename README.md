@@ -139,10 +139,36 @@
 
 9, problem_set_9.py contains the solution to problem "Write a program that reads in a text file and outputs every second line. The program should take the filename from an argument on the command line."
 
+*Output*
+
+>CHAPTER 1
+
+>CALL me Ishmael. Some years ago never mind how \
+
+>and nothing particular to interest me on shore, I thought \
+
+>world. It is a way I have of driving off the spleen, and \
+
+>growing grim about the mouth ; whenever it is a damp,\
+
+>involuntarily pausing before coffin warehouses, and bring-\
+
+>whenever my hypos get such an upper hand of me, that \
+
+>deliberately stepping into the street, and methodically \
+
+>to get to sea as soon as I can. This is my substitute for \
+
+>himself upon his sword ; I quietly take to the ship. \
+
+>it, almost all men in their degree, some time or other, \
+
+>with me.
+
 10, problem_set_10.py contains the solution to problem "Write a program that displays a plot of the functions x, x powred by 2 and 2 powered by x in the range [0, 4]."
 
 *Output*
 
->!image[](https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf)
+>! https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf
  
 **Detailed explanation of my problem solving is saved in each problem sets.**
