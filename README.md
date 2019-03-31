@@ -143,25 +143,25 @@
 
 >CHAPTER 1
 
->CALL me Ishmael. Some years ago never mind how \
+>CALL me Ishmael. Some years ago never mind how 
 
->and nothing particular to interest me on shore, I thought \
+>and nothing particular to interest me on shore, I thought 
 
->world. It is a way I have of driving off the spleen, and \
+>world. It is a way I have of driving off the spleen, and 
 
->growing grim about the mouth ; whenever it is a damp,\
+>growing grim about the mouth ; whenever it is a damp,
 
->involuntarily pausing before coffin warehouses, and bring-\
+>involuntarily pausing before coffin warehouses, and bring-
 
->whenever my hypos get such an upper hand of me, that \
+>whenever my hypos get such an upper hand of me, that 
 
->deliberately stepping into the street, and methodically \
+>deliberately stepping into the street, and methodically 
 
->to get to sea as soon as I can. This is my substitute for \
+>to get to sea as soon as I can. This is my substitute for 
 
->himself upon his sword ; I quietly take to the ship. \
+>himself upon his sword ; I quietly take to the ship. 
 
->it, almost all men in their degree, some time or other, \
+>it, almost all men in their degree, some time or other, 
 
 >with me.
 
@@ -169,6 +169,6 @@
 
 *Output*
 
->! https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf
+![Problem set 10 plot.pdf] (https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf)
  
 **Detailed explanation of my problem solving is saved in each problem sets.**
