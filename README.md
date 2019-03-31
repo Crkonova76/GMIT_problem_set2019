@@ -143,6 +143,6 @@
 
 *Output*
 
->!https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf
+>!image[](https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf)
  
 **Detailed explanation of my problem solving is saved in each problem sets.**
