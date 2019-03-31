@@ -36,11 +36,11 @@
 
 *Output*
 
->Enter the positive integer: 10
-The output of Version 1 is 55
+>Enter the positive integer: 10 \
+>The output of Version 1 is 55
 
->Enter the positive integer: 10
-The output of Version 2 is 55
+>Enter the positive integer: 10 \
+>The output of Version 2 is 55
 
 2, problem_set_2.py contains the solution to problem "Write a program that outputs whether or not today is a day that begins with the letter T. An example of running this program on a Thursday is as follows."
 
