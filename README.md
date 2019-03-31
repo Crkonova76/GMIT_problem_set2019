@@ -169,6 +169,6 @@
 
 *Output*
 
-![Problem set 10 plot.pdf] (https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.pdf)
+![](https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.png)
  
 **Detailed explanation of my problem solving is saved in each problem sets.**
