@@ -1,4 +1,4 @@
-# # Martina Crkonova, 2019-03-02
+# Martina Crkonova, 2019-03-02
 # Problem Set 2019, Python sumupto, Programming and Scripting, GMIT
 # Program calculating sum of all numbers between given number and one
 
@@ -21,7 +21,7 @@ In both cases while loop was used.
 #VERSION 1
 
 #Created variable i which is asking to input positive integer
-i = int(input ( "Enter the positive integer: "))
+i = int(input ("Enter the positive integer: "))
 
 # To variable total is assigned value Zero. 
 # Zero selected as the input number would be the starting integer in computation in below 
@@ -43,7 +43,7 @@ print("The output of Version 1 is {}".format(total))
 #VERSION 2
 
 #Created variable i which is asking to input positive integer
-i = int(input ( "Enter the positive integer: "))
+i = int(input ("Enter the positive integer: "))
 
 # Variables total and result are created with assigned value Zero
 total = 0

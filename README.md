@@ -100,17 +100,17 @@
 
 *Output*
 
->Please enter a positive integer: 10
+>Please enter a positive integer: 10 \
 >An initial positive integer is 10 and the output is: [5, 16, 8, 4, 2, 1]
 
 5, problem_set_5.py contains the solution to problem "Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime."
 
 *Output*
 
->Input positive integer: 10
+>Input positive integer: 10 \
 >10 is not a Prime Number
 
->Input positive integer: 11
+>Input positive integer: 11 \
 >11  is a Prime Number
 
 6, problem_set_6.py contains the solution to problem "Write a program that takes a user input string and outputs every second word."
@@ -118,15 +118,31 @@
 *Output*
 
 >Please enter a sentence :
- >A numpy array is a grid of values, all of the same type, and is indexed by a tuple of >nonnegative integers. 
+ >A numpy array is a grid of values, all of the same type, and is indexed by a tuple of nonnegative integers. \
 >A array a of all the type, is by tuple nonnegative 
 
 7, problem_set_7.py contains the solution to problem "Write a program that that takes a positive floating point number as input and outputs an approximation of its square root"
 
+*Output*
+
+>Please provide any POSITIVE floating point number: 14.5 \
+>Variant A:The square root of 14.5 is approx.3.8078865529319543.
+
+>Please provide any POSITIVE floating point number: 14.5 \
+>Variant B: The square root of 14.5 is approx.3.8078865529319543.
+
 8, problem_set_8.py contains the solution to problem "Write a program that outputs today’s date and time in the format “Monday, January 10th 2019 at 1:15pm”."
+
+*Output*
+
+>Sunday, March 31st 2019 at 12:56 PM
 
 9, problem_set_9.py contains the solution to problem "Write a program that reads in a text file and outputs every second line. The program should take the filename from an argument on the command line."
 
 10, problem_set_10.py contains the solution to problem "Write a program that displays a plot of the functions x, x powred by 2 and 2 powered by x in the range [0, 4]."
+
+*Output*
+
+>!https://github.com/Crkonova76/GMIT_problem_set2019/blob/master/screenshot/Problem%20set%2010%20plot.png
  
 **Detailed explanation of my problem solving is saved in each problem sets.**
