@@ -3,7 +3,7 @@
 
 
 # User input assigned to variable i
-i = int ( input (" Please enter a positive integer: "))
+i = int ( input ("Please enter a positive integer: "))
 
 # Empty collection 
 collection = []

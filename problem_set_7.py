@@ -15,7 +15,7 @@ inp=input("Please provide any POSITIVE floating point number: ")
 result = math.sqrt(float(inp))
 
 # The result is printed
-print("Variant A:The square root of {} is approx.{},".format(inp,result))
+print("Variant A:The square root of {} is approx.{}.".format(inp,result))
 
 
 #VARIANT B (Babylonian method, known as Heron's method)
@@ -55,4 +55,4 @@ def babylonianalgorithm(data):
 mata = babylonianalgorithm(float(inp))
 
 # Print function by using standard Python build in function .format which passing two parameters
-print("Variant B: The square root of {} is approx.{},".format(inp,mata))
+print("Variant B: The square root of {} is approx.{}.".format(inp,mata))

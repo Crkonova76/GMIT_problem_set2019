@@ -4,7 +4,7 @@
 
 
 
-# Ask for input and displaye it on new line
+# Ask for input and display it on new line
 my_input = input ('Please enter a sentence :\n')
 
 # Split the input on the base of empty spaces between words
